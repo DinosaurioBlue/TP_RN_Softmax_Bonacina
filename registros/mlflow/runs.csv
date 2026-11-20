@@ -1,0 +1,2 @@
+﻿run_uuid,name,source_type,source_name,entry_point_name,user_id,status,start_time,end_time,source_version,lifecycle_stage,artifact_uri,experiment_id,deleted_time
+2b623e9969e24efe92b6b7321cf6ab58,softmax_final,UNKNOWN,,,franc,FINISHED,1792610056243,1792610082433,,active,mlruns/1/2b623e9969e24efe92b6b7321cf6ab58/artifacts,1,

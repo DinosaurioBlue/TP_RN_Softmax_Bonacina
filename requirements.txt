@@ -1,0 +1,13 @@
+numpy==2.4.6
+torch==2.14.1
+matplotlib==3.10.9
+scikit-learn==1.9.1
+nltk==3.10.4
+tensorboard==2.21.0
+mlflow==3.17.2
+optuna==5.0.0
+pandas==3.0.3
+ipykernel==7.4.0
+plotly==7.1.0
+nbformat==5.11.1
+joblib==1.6.0

@@ -1,0 +1,87 @@
+[
+  {
+    "archivo": ".gitignore",
+    "bytes": 197,
+    "sha256": "175e9bcdb62c2d6722492cc7a290d74a6d1f4624a3588db905b11a21f70cf3a8"
+  },
+  {
+    "archivo": "01_Softmax_Regression_20Newsgroups.ipynb",
+    "bytes": 10280181,
+    "sha256": "cc347f0279a8a2e00506f12b821bb66ae3e3580db6de74979ffe4e3987a956b3"
+  },
+  {
+    "archivo": "clasificacion_de_textos.ipynb",
+    "bytes": 2330591,
+    "sha256": "3ba7e6c17c500267102e7a8363699721d9743f231b6ed1ddf264d743fa2d356e"
+  },
+  {
+    "archivo": "entorno-origen.json",
+    "bytes": 583,
+    "sha256": "263505b21c083045e0fe4469f6e3cbce3e791d121b9c62e082b46d95f47d23bd"
+  },
+  {
+    "archivo": "mlflow.db",
+    "bytes": 962560,
+    "sha256": "b342cab805aaaf055d71b3bd0cc1e253f8171934e140366f7f8e4357f99a0203"
+  },
+  {
+    "archivo": "README.md",
+    "bytes": 2302,
+    "sha256": "89b0c4e144534abfafac50feae4be6edd54df76f0b0d228557cd98bd1a309114"
+  },
+  {
+    "archivo": "registros/mlflow/latest_metrics.csv",
+    "bytes": 371,
+    "sha256": "e3097019e5696db42d641fd7a3907a202e30dd3008cfb339ae0c912b104e5018"
+  },
+  {
+    "archivo": "registros/mlflow/metrics.csv",
+    "bytes": 6525,
+    "sha256": "fa081ff1e5d868227dfad79dd243427abebb97ed35c67d7f6be9c8c866e210ec"
+  },
+  {
+    "archivo": "registros/mlflow/params.csv",
+    "bytes": 544,
+    "sha256": "e4c88d4b11a0f649b219b850af10011af058098c02c23e5e57b8d4452b8da61a"
+  },
+  {
+    "archivo": "registros/mlflow/runs.csv",
+    "bytes": 329,
+    "sha256": "3f48cf4872890bd8369937477c8a1922b7d68395051ec7f7c8671da5b8542c0f"
+  },
+  {
+    "archivo": "requirements.txt",
+    "bytes": 217,
+    "sha256": "461f44ac970d15f4a15d9d6c85d6b851ddde689a5418a673257f7eca0804c655"
+  },
+  {
+    "archivo": "runs/softmax_final/accuracy_train/events.out.tfevents.1792610057.fbonacina.15616.3",
+    "bytes": 1006,
+    "sha256": "506cea90fb3db25116c65af3f54157f464ae941bc0a0531c4b15eefa94f6f468"
+  },
+  {
+    "archivo": "runs/softmax_final/accuracy_val/events.out.tfevents.1792610057.fbonacina.15616.4",
+    "bytes": 1006,
+    "sha256": "2b16b7a4172ecaf824bd592a22e761fbca3a205c6aaf0ac2ed835436b46f7999"
+  },
+  {
+    "archivo": "runs/softmax_final/events.out.tfevents.1792610042.fbonacina.15616.0",
+    "bytes": 88,
+    "sha256": "2b56aad47bd2c03ccd9cff99d3e12435a725439afb5a9341ded987ba0548bc12"
+  },
+  {
+    "archivo": "runs/softmax_final/loss_train/events.out.tfevents.1792610057.fbonacina.15616.1",
+    "bytes": 926,
+    "sha256": "65f9b935e02330e84b152080f7cd4c0e85e2066fb842a0e64d2953c9acd1ee77"
+  },
+  {
+    "archivo": "runs/softmax_final/loss_val/events.out.tfevents.1792610057.fbonacina.15616.2",
+    "bytes": 926,
+    "sha256": "b4fab2d50af8329588519ae616a1d7e5a4c9dc8219f828eefbdc697e6bccd8e1"
+  },
+  {
+    "archivo": "ver_registros.py",
+    "bytes": 942,
+    "sha256": "93b400d062128a263634fd327a4b7b235592078f771e586bdb31df9f895fbcbd"
+  }
+]
